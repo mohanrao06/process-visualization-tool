@@ -170,8 +170,6 @@ Here’s a quick video walkthrough of the tool in action:
 This project was developed by the following team members:
 
 - **Mohan Rao** (Lead Developer)
-- **[Team Member 2 Name]** (Role)
-- **[Team Member 3 Name]** (Role)
 
 Special thanks to all contributors for their support!
 
